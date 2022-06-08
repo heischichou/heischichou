@@ -1,5 +1,5 @@
 ## Salutations, the name's Jan Michael, you may call me Jan.
-👤 I'm an aspiring full-stack web developer.
+👤 I'm an aspiring Visayan full-stack web developer.
 
 ⌚ I taught myself HTML, CSS, and JavaScript during my secondary education. I would later be mentored by my Uncle with Vue.js, now I'm continuing to expand and develop my skills at University (2020-present).
 
