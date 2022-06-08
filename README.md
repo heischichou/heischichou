@@ -9,6 +9,7 @@
 <div style="display:flex">
   <a href="mailto:jangarot@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-jangarot@gmail.com-c71610?style=flat-round&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:19101864@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-19101864@gmail.com-c71610?style=flat-round&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jan-garot-5b8822102/" target="_blank"><img src="https://img.shields.io/badge/-Jan_Garot-0077b5?style=flat-round&logo=Linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/281902156490211329" target="_blank"><img src="https://img.shields.io/badge/-Heischichou%235403-5865F2?style=flat-round&logo=Discord&logoColor=white"/></a>
 </div>
 
