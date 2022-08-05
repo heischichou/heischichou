@@ -19,7 +19,7 @@
 
 💻 I’m currently working on the Voice For Change App audit.
 
-🔭 I'm looking to learn TailwindCSS, Hreoku, and ReactJS.
+🔭 I'm looking to learn TailwindCSS, Heroku, and ReactJS.
 
 <div align="center">
 
