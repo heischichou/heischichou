@@ -96,10 +96,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=heischichou&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Heischichou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heischichou&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=heischichou&theme=tokyonight&hide_border=false)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=heischichou&theme=tokyonight&hide_border=false)
 <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heischichou&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heischichou&langs_count=6&hide=c,html&theme=tokyonight&hide_border=false&layout=compact)
 
 </div>
