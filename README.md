@@ -13,13 +13,13 @@
 
 👤 I'm an aspiring Visayan full-stack web developer.
 
-🕹️ I like to draw, listen to music and play games in my free time, mostly First-person Shooters.
+🕹️ I like to draw, write, read literature, listen to music and play games in my free time, mostly First-person shooters.
 
 🏫 I taught myself HTML, CSS, and JavaScript during my secondary education. I would later be mentored by my Uncle with Vue.js, now I'm continuing to expand and develop my skills at University (2020-present).
 
-💻 I’m currently working on [WatchBox](https://github.com/vn-aj-vngrd/watchbox/tree/production).
+💻 I’m currently working on PlentyFull: A Cross-Platform Intermediary Application for Food Surplus Aid.
 
-🔭 I'm looking to learn TailwindCSS, Heroku, Vercel, and ReactJS.
+🔭 I'm looking to learn GraphQL, React Native, Nuxt.js and Netlify. I also wish to develop and deploy my own portfolio website sometime in the future.
 
 <div align="center">
 
@@ -71,11 +71,13 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Databases and Cloud Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
