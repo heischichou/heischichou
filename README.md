@@ -13,13 +13,13 @@
 
 👤 I'm an aspiring Visayan full-stack web developer.
 
-🕹️ I like to draw, write, read literature, listen to music, and play games in my free time, mostly First-person shooters.
+🕹️ I like to draw, write, read literature and history, listen to music, and play video games in my free time, mostly First-person shooters.
 
 🏫 I taught myself HTML, CSS, and JavaScript during my secondary education. I would later be mentored by my Uncle with Vue.js, now I'm continuing to expand and develop my skills at University (2020-present).
 
-💻 I’m currently working on PlentyFull: A Cross-Platform Intermediary Application for Food Surplus Aid.
+💻 I’m currently working on [Heich.io](https://heich-io.vercel.app/), my personal portfolio website.
 
-🔭 I'm looking to learn GraphQL, React Native, Nuxt.js, and Netlify. I also wish to develop and deploy my portfolio website sometime in the future.
+🔭 I'm looking to learn Next.js, GraphQL, React Native, Nuxt.js.
 
 <div align="center">
 
@@ -133,6 +133,6 @@
 <br/><br/>
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=heischichou&theme=transparent&hide_border=false)
 <br/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heischichou&langs_count=6&hide=c,html,css&theme=transparent&hide_border=false&layout=donut-vertical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heischichou&langs_count=6&hide=c,html,css,jupyter%20notebook&theme=transparent&hide_border=false&layout=donut-vertical)
 
 </div>
